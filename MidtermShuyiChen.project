@@ -26,8 +26,8 @@
           "!type": "External", 
           "file": [
             "forms", 
-            "IncomeBracket", 
-            "IncomeBracket.json"
+            "animalExtraXP", 
+            "animalExtraXP.json"
           ]
         }, 
         {
@@ -36,6 +36,14 @@
             "forms", 
             "Calculation", 
             "Calculation.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "IncomeBracket", 
+            "IncomeBracket.json"
           ]
         }
       ], 
