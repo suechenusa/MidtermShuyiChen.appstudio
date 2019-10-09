@@ -1,3 +1,4 @@
+/*
 //a.array which have all the animal
 let animal = ["dog", "cat", "horse", "mouse", "pig", "cow", "ferret", "lizard", "frog"]
 
@@ -12,3 +13,4 @@ console.log(animal)
 
 //d.output the last animal in the array
 alert(`The last animal is ${animal[animal.length-1]}`)
+*/
