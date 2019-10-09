@@ -42,6 +42,14 @@
           "!type": "External", 
           "file": [
             "forms", 
+            "calculateExtraXP", 
+            "calculateExtraXP.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
             "IncomeBracket", 
             "IncomeBracket.json"
           ]
